@@ -17,7 +17,7 @@ div{
     max-width: 1000px;
 }
 .header .header__article{
-    background-color: rgb(75, 0, 75);
+    background-color: rgb(101, 1, 101);
     width: 50px;
     height: 50px;
     border-radius: 50%;
@@ -29,7 +29,7 @@ div{
     margin-bottom: 5px;
 }
 .header__section__article{
-    background-color: rgb(172, 1, 172);
+    background-color: #fbe2e2;
     width: 200px;
     height: 70px;
     border-radius:50% 10%;
@@ -59,13 +59,13 @@ div{
     gap: 5px;
 }
 .main__section-right__article{
-    background-color: fuchsia;
+    background-color: rgb(223, 119, 223);
     width: 180px;
     height: 45px;
 }
 
 .footer__article{
-    background-color: darksalmon;
+    background-color: rgb(196, 137, 244);
     max-width: 1000px;
     height: 50px;
     margin-top: 5px;
